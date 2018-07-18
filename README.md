@@ -10,7 +10,7 @@ Seigniorage Share and Elastic Supply.
 
 ProgPoW and Staking Service Network.
 
-Instant Confirmation.
+Input Locking and Instant Confirmation.
 
 # Scalability
 
